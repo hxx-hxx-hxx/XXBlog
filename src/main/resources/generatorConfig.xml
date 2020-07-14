@@ -21,8 +21,8 @@
   	<!-- 注意！如果要重新生成pojo类，务必改成项目组数据库，用户名密码 -->
     <jdbcConnection driverClass="com.mysql.jdbc.Driver"
         connectionURL="jdbc:mysql://39.99.198.96:3306/cms3.0"
-        userId="hxx"
-        password="hxx">
+        userId="****"
+        password="*****">
     </jdbcConnection>
     
 
